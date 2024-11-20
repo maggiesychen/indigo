@@ -2,7 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Maggie Chen is a science journalist and MD-PhD candidate at Stanford University. Previously, she graduated from Harvard College with a degree in human developmental and regenerative biology, then completed a MRes in Bioengineering at Imperial College London through the British Marshall Scholarship. Her PhD work focuses on understanding the genetic regulation underlying heart disease.</p>
 
